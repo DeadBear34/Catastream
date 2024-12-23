@@ -1,0 +1,10 @@
+*.iml
+.idea/
+*.apk
+*.jar
+*.keystore
+/build/
+/local.properties
+*.log
+*.hprof
+*.class
